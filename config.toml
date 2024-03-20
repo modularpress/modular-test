@@ -1,4 +1,4 @@
-baseURL       = "https://modular-site-test.netlify.appt"
+baseURL       = "https://modular-test.netlify.app"
 languageCode  = "en-us"
 title         = "Modular Press"
 theme         = "roxo-hugo"
